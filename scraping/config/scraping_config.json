@@ -6,22 +6,20 @@
             "labels_to_scrape": [
                 {
                     "label_choices": [
-                        "#bitcoin",
-                        "#bitcoincharts",
-                        "#bitcoiner",
-                        "#bitcoinexchange",
-                        "#bitcoinmining",
-                        "#bitcoinnews",
-                        "#bitcoinprice",
-                        "#bitcointechnology",
-                        "#bitcointrading",
+                        "#theapprentice",
+                        "#ferarri",
+                        "#mainoo",
+                        "#fridayfeeling",
+                        "#andrewtate",
+                        "#tao",
                         "#bittensor",
+                        "#icenetwork",
                         "#btc",
-                        "#cryptocurrency",
                         "#crypto",
+                        "#xrp",
+                        "#binance",
                         "#defi",
-                        "#decentralizedfinance",
-                        "#tao"
+                        "#ττ"
                     ],
                     "max_data_entities": 75
                 }
